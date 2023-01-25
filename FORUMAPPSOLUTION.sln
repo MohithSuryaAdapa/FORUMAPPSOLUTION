@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIFORUMAPP", "UIFORUMAPP\UIFORUMAPP.csproj", "{E65DF7F1-830D-4210-A5CB-B241573B8C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORUMAPPLICATION.DataModels", "FORUMAPPLICATION.DATAMODALS\FORUMAPPLICATION.DataModels.csproj", "{78BAA7D0-6880-4E74-A14E-8118BCD729B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORUMAPPLICATION.ServiceLayer", "FORUMAPPLICATION.SERVICELAYER\FORUMAPPLICATION.ServiceLayer.csproj", "{879A1C37-3CAC-4050-B699-ADAFD25BB739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORUMAPPLICATION.ViewModel", "FORUMAPPLICATION.VIEWMODEL\FORUMAPPLICATION.ViewModel.csproj", "{29357928-182A-408F-8622-C7E8E022F3A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORUMAPPLICATION.Repositories", "FORUMAPPLICATION.REPOSITORIES\FORUMAPPLICATION.Repositories.csproj", "{6DD1115F-1BC5-4B21-B964-7FD18A75EEE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E65DF7F1-830D-4210-A5CB-B241573B8C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65DF7F1-830D-4210-A5CB-B241573B8C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65DF7F1-830D-4210-A5CB-B241573B8C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65DF7F1-830D-4210-A5CB-B241573B8C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BAA7D0-6880-4E74-A14E-8118BCD729B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BAA7D0-6880-4E74-A14E-8118BCD729B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BAA7D0-6880-4E74-A14E-8118BCD729B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BAA7D0-6880-4E74-A14E-8118BCD729B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879A1C37-3CAC-4050-B699-ADAFD25BB739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879A1C37-3CAC-4050-B699-ADAFD25BB739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879A1C37-3CAC-4050-B699-ADAFD25BB739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879A1C37-3CAC-4050-B699-ADAFD25BB739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29357928-182A-408F-8622-C7E8E022F3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29357928-182A-408F-8622-C7E8E022F3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29357928-182A-408F-8622-C7E8E022F3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29357928-182A-408F-8622-C7E8E022F3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD1115F-1BC5-4B21-B964-7FD18A75EEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD1115F-1BC5-4B21-B964-7FD18A75EEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD1115F-1BC5-4B21-B964-7FD18A75EEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD1115F-1BC5-4B21-B964-7FD18A75EEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE96606-F395-40A5-BF36-4B272135F5AD}
+	EndGlobalSection
+EndGlobal
